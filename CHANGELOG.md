@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.0 (2026-09-29)
+
+
+### Features
+
+* add initial release ([ec60c00](https://github.com/codectl/terraform-azure-acs/commit/ec60c0055b6d15adc6976bc22afdf87aae3e2ec0))
+* add initial resources ([523b870](https://github.com/codectl/terraform-azure-acs/commit/523b8702e0eb5c1b2b64cbd1dd0ebb401fefd4b3))
+
 ## [2.0.0](https://github.com/CloudNationHQ/terraform-azure-acs/compare/v1.1.0...v2.0.0) (2026-09-02)
 
 
